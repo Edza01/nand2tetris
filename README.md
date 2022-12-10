@@ -8,7 +8,7 @@ Project 01
     Build the following gates:
     
     Elementary logic gates
-    - Not
+    - <s>Not</s>
     - And
     - Or
     - Xor
