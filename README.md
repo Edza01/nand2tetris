@@ -9,7 +9,7 @@ Project 01
     
     Elementary logic gates
     - Not -- DONE
-    - And
+    - And -- DONE
     - Or
     - Xor
     - Mux
