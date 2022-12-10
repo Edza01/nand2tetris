@@ -12,7 +12,7 @@ Project 01
     - And -- DONE
     - Or -- DONE
     - Xor -- DONE
-    - Mux
+    - Mux -- DONE
     - Dmux
 
     16-bit variants
