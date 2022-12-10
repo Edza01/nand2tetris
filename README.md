@@ -11,7 +11,7 @@ Project 01
     - Not -- DONE
     - And -- DONE
     - Or -- DONE
-    - Xor -- MISTAKE!!!!!!!
+    - Xor -- DONE
     - Mux -- DONE
     - Dmux
 
