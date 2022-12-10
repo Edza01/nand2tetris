@@ -7,16 +7,19 @@ Project 01
 
     Build the following gates:
     
+    Elementary logic gates
     - Not
     - And
     - Or
     - Xor
     - Mux
     - Dmux
+    16-bit variants
     - Not16
     - And16
     - Or16
     - Mux16
+    Multi-way variants
     - Or8Way
     - Mux4Way16
     - Mux8Way16
