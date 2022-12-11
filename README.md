@@ -23,7 +23,7 @@ Project 01
     
     Multi-way variants
     - Or8Way -- DONE
-    - Mux4Way16
+    - Mux4Way16 -- DONE
     - Mux8Way16
     - DMux4Way
     - DMux8Way
