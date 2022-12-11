@@ -25,5 +25,5 @@ Project 01
     - Or8Way -- DONE
     - Mux4Way16 -- DONE
     - Mux8Way16 -- DONE
-    - DMux4Way
+    - DMux4Way -- DONE
     - DMux8Way
