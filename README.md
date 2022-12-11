@@ -26,4 +26,4 @@ Project 01
     - Mux4Way16 -- DONE
     - Mux8Way16 -- DONE
     - DMux4Way -- DONE
-    - DMux8Way
+    - DMux8Way -- DONE
