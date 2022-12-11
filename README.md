@@ -19,7 +19,7 @@ Project 01
     - Not16 -- DONE
     - And16 -- DONE
     - Or16 -- DONE
-    - Mux16
+    - Mux16 -- DONE
     
     Multi-way variants
     - Or8Way
