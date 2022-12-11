@@ -18,7 +18,7 @@ Project 01
     16-bit variants
     - Not16 -- DONE
     - And16 -- DONE
-    - Or16
+    - Or16 -- DONE
     - Mux16
     
     Multi-way variants
