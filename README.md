@@ -16,7 +16,7 @@ Project 01
     - Dmux -- DONE
 
     16-bit variants
-    - Not16
+    - Not16 -- DONE
     - And16
     - Or16
     - Mux16
