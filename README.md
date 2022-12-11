@@ -27,3 +27,7 @@ Project 01
     - Mux8Way16 -- DONE
     - DMux4Way -- DONE
     - DMux8Way -- DONE
+
+Project 02
+
+    Boolean Arithmetic
