@@ -31,3 +31,10 @@ Project 01
 Project 02
 
     Boolean Arithmetic
+
+    Combinational Chips
+    - Half Adder
+    - Full Adder
+    - 16-bit Adder
+    - 16 bit Incrementer
+    - Arithmetic Logic Unit
