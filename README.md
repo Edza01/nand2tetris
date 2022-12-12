@@ -31,6 +31,10 @@ Project 01
 Project 02
 
     Boolean Arithmetic
+    - Binary Numbers -- DONE
+    - Binary Addition
+    - Negative Numbers
+    - Arithmetic Logic Unit
 
     Combinational Chips
     - Half Adder
