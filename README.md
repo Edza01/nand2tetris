@@ -32,8 +32,8 @@ Project 02
 
     Boolean Arithmetic
     - Binary Numbers -- DONE
-    - Binary Addition
-    - Negative Numbers
+    - Binary Addition -- DONE
+    - Negative Numbers -- DONE
     - Arithmetic Logic Unit
 
     Combinational Chips
