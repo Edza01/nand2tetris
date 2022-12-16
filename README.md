@@ -34,7 +34,7 @@ Project 02
     - Binary Numbers -- DONE
     - Binary Addition -- DONE
     - Negative Numbers -- DONE
-    - Arithmetic Logic Unit
+    - Arithmetic Logic Unit -- DONE
 
     Combinational Chips
     - Half Adder
