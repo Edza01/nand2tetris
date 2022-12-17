@@ -37,8 +37,8 @@ Project 02
     - Arithmetic Logic Unit -- DONE
 
     Combinational Chips
-    - Half Adder
-    - Full Adder
+    - Half Adder -- DONE
+    - Full Adder -- DONE
     - 16-bit Adder
     - 16 bit Incrementer
     - Arithmetic Logic Unit
