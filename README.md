@@ -41,4 +41,4 @@ Project 02
     - Full Adder -- DONE
     - 16-bit Adder -- DONE
     - 16 bit Incrementer -- DONE
-    - Arithmetic Logic Unit
+    - Arithmetic Logic Unit -- DONE
