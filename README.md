@@ -49,7 +49,7 @@ Project 03
     - Bit -- DONE
     - Register -- DONE
     - Ram8 -- DONE
-    - Ram64
+    - Ram64 -- DONE
     - Ram 512
     - Ram4k
     - Ram16k
