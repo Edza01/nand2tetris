@@ -42,3 +42,16 @@ Project 02
     - 16-bit Adder -- DONE
     - 16 bit Incrementer -- DONE
     - Arithmetic Logic Unit -- DONE
+
+Project 03
+
+    Sequential Chips
+    - Bit
+    - Register
+    - Ram8
+    - Ram64
+    - Ram 512
+    - Ram4k
+    - Ram16k
+    - PC
+
