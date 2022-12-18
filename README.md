@@ -55,3 +55,7 @@ Project 03
     - Ram16k -- DONE
     - PC -- DONE
 
+Project 04
+
+    Machine Language
+    
