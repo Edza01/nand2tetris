@@ -48,10 +48,10 @@ Project 03
     RAM, Memory, and Sequential Logic
     - Bit -- DONE
     - Register -- DONE
-    - Ram8
+    - Ram8 -- DONE
     - Ram64
     - Ram 512
     - Ram4k
     - Ram16k
-    - PC
+    - PC -- DONE
 
