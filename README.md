@@ -45,7 +45,7 @@ Project 02
 
 Project 03
 
-    Sequential Chips
+    RAM, Memory, and Sequential Logic
     - Bit
     - Register
     - Ram8
