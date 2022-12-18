@@ -52,6 +52,6 @@ Project 03
     - Ram64 -- DONE
     - Ram 512 -- DONE
     - Ram4k -- DONE
-    - Ram16k
+    - Ram16k -- DONE
     - PC -- DONE
 
