@@ -50,7 +50,7 @@ Project 03
     - Register -- DONE
     - Ram8 -- DONE
     - Ram64 -- DONE
-    - Ram 512
+    - Ram 512 -- DONE
     - Ram4k
     - Ram16k
     - PC -- DONE
