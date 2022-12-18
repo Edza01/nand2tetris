@@ -47,7 +47,7 @@ Project 03
 
     RAM, Memory, and Sequential Logic
     - Bit -- DONE
-    - Register
+    - Register -- DONE
     - Ram8
     - Ram64
     - Ram 512
