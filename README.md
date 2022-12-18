@@ -46,7 +46,7 @@ Project 02
 Project 03
 
     RAM, Memory, and Sequential Logic
-    - Bit
+    - Bit -- DONE
     - Register
     - Ram8
     - Ram64
